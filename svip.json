@@ -4,7 +4,7 @@
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "logo": "https://qixing.myhkw.com/tw.jpg",
  "lives": [
-{"name": "live","type": 0,"url": "./tv5.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}"}],
+{"name": "live","type": 0,"url": "./tv.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}"}],
 
 "sites":[
 {"key": "豆瓣推荐","name": "豆瓣推荐｜龍卷風影視","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
