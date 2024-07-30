@@ -107,6 +107,43 @@
         {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
       "name": "✨️我的🍆"
-    }
+    },
+ {
+            "url": "https://gitee.com/xiaoyu91353/xiaoyu-duocang/raw/master/%E6%99%93%E5%AE%87%E4%B8%93%E7%BA%BF%E4%B8%80.txt",
+            "name": "🕍晓宇多仓专线一"
+        },
+
+        {
+            "url": "https://gitee.com/xiaoyu91353/xiaoyu-duocang/raw/master/%E6%99%93%E5%AE%87%E4%B8%93%E7%BA%BF%E4%BA%8C.txt",
+            "name": "🕍晓宇多仓专线二"
+        },
+
+        {
+            "url": "https://gitee.com/xiaoyu91353/xiaoyu-duocang/raw/master/%E6%99%93%E5%AE%87%E4%B8%93%E7%BA%BF%E4%B8%89.txt",
+            "name": "✨晓宇多仓专线三"
+        },
+
+        {
+            "url": "https://gitee.com/xiaoyu91353/xiaoyu-duocang/raw/master/%E6%99%93%E5%AE%87%E4%B8%93%E7%BA%BF%E5%9B%9B.txt",
+            "name": "✨晓宇多仓专线四"
+        },
+
+  {
+            "url": "https://gitee.com/xiaoyu91353/xiaoyu-duocang/raw/master/%E6%99%93%E5%AE%87%E4%B8%93%E7%BA%BF%E4%BA%94.txt",
+            "name": "🌺晓宇多仓专线五"
+        },
+
+  {
+            "url": "https://gitee.com/xiaoyu91353/xiaoyu-duocang/raw/master/%E6%99%93%E5%AE%87%E4%B8%93%E7%BA%BF%E4%B8%83.txt",
+            "name": "🌽晓宇多仓专线六"
+        },
+ {
+            "url": "https://gitee.com/xiaoyu91353/xiaoyu-duocang/raw/master/%E6%99%93%E5%AE%87%E4%B8%93%E7%BA%BF%E5%85%AB.txt",
+            "name": "🌽晓宇多仓专线七"
+        },
+            {
+            "url": "http://hucongrong.web3v.work/dj/djdq.json",
+            "name": "🌺晓宇多仓短剧专线"
+        }
   ]
 }
