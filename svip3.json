@@ -3,8 +3,6 @@
 {"spider": "./lib/tvkj.jar",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "logo": "https://qixing.myhkw.com/tw.jpg",
- "lives": [
-{"name": "live","type": 0,"url": "http://www.bjrocken.com/kensorl/tv/tv.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}"}],
 
 "sites":[
 {"key":"js_豆瓣热播","name":"🅱️追剧影院|T热播","type":3,"api":"./hccx/Api.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./hccx/Doubanrebo.js"},
