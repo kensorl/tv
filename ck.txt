@@ -1,5 +1,9 @@
-{
+﻿{
   "urls": [
+{
+      "url": "https://gitee.com/kensorl/zy/raw/master/svip3.json",
+      "name": "龙卷风主线路"
+    },
 {
       "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
       "name": "龙卷风giteetw线路"
