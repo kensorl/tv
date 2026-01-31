@@ -1,0 +1,42 @@
+{
+  "spider": "https://gitee.com/kensorl/zy/raw/master/168.png",
+  "sites": [
+    {
+      "key": "cctv_live",
+      "name": "📺央视直播",
+      "api": "csp_WvSpider",
+      "type": "3",
+      "jar": "https://gitee.com/kensorl/zy/raw/master/WvSpider.jar",
+      "ext": "https://gitee.com/kensorl/zy/raw/master/%E5%A4%AE%E8%A7%86%E7%9B%B4%E6%92%AD.js"
+    } ] ,
+
+
+ "lives": [
+    {
+      "name": "北京线路",
+      "type": 0,
+      "url": "http://kensorl.free.nf/tv/a1.txt"},
+
+     {
+      "name":"燕郊线路",
+      "type":0,
+      "url":"http://kensorl.free.nf/tv/yj.txt"},
+
+
+         { "name": "AI直播", "type": 0,"url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","playerType": 2},
+
+         {"name":"IPTV直播","type":0,"url":"https://gitee.com/RandomCJ/IPTV_Personal/raw/master/output/IPTV_Personal.txt"},
+
+         {"name": "央视+卫视", "url": "http://110.42.41.252:3000/", "type": 0 },
+
+         {"name": "电视直播", "type":0,"url": "https://gitee.com/sk0yang/tv/raw/master/output/result.txt" },
+
+         {"name": "佛光直播","type": 0,"url": "https://gitee.com/king12985/tv/raw/master/lives/20180818.txt","playerType": 2},
+
+         {"name": "财神直播","type": 0,"url": "https://ghfast.top/https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt","playerType": 2},
+
+         {"name": "元宝直播","type": 0,"url": "https://gitee.com/king12985/tv/raw/master/lives/zhizhu/20180818china.txt","playerType": 2},
+
+         {"name":"木木直播","type":0,"url":"https://gitee.com/yuan301/tv/raw/master/A/tv.png","ua":"okhttp/3.15,AptvPlayer/1.4.0","timeout":5 }
+  ]
+}
