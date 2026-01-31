@@ -1,124 +1,65 @@
-﻿{
-  "urls": [
-{
-      "url": "https://gitee.com/kensorl/zy/raw/master/svip3.json",
-      "name": "龙卷风主线路"
-    },
-{
-      "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
-      "name": "龙卷风giteetw线路"
-    },
-{
-      "url": "https://gitee.com/kensorl/zy/raw/master/svip.json",
-      "name": "龙卷风giteezy线路"
-    },
-{
-      "url": "http://kensorl.free.nf/tv/svip.txt",
-      "name": "龙卷风freenf线路"
-    },
-{
-      "url": "https://gitee.com/kensorl/tv/raw/master/wzb02.json",
-      "name": "龙卷风giteenx线路"
-    },
-{
-      "url": "http://www.bjrocken.com/kensorl/tv/svip.txt",
-      "name": "龙卷风rocken线路"
-    },
-{
-      "url": "https://mi.xxooo.shop/",
-      "name": "mi.xxooo线路"
-    },
-{
-      "url": "https://gitee.com/nianxinxz/miao/raw/master/tvbox.json",
-      "name": "念心原线路"
-    },
-   {
-      "url": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/zy.json",
-      "name": "ZY线路"
-    },
-           {
-      "url": "https://gitee.com/shengfuwang/yscjk/raw/master/T4.json",
-      "name": "T4的线路"
-    },
-  {
-      "url": "https://gitee.com/cnchs/iptv/raw/main/svip.json",
-      "name": "SVIP的线路"
-    },
- {
-      "url": "https://gitee.com/iiwc/ii/raw/i/z",
-      "name": "Z的线路"
-    },
-   {
-      "url": "https://gitee.com/shengfuwang/yscjk/raw/master/Ray.json",
-      "name": "RAY的线路"
-    },
-   {
-      "url": "https://gitee.com/shengfuwang/yscjk/raw/master/wsf.json",
-      "name": "嘉峪关老王线路"
-    },
-{
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
-      "name": "荷城茶秀线路"
-    },
-            {
-            
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name": "🌪南风线路"
-   },
-          {
-            "url": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
-            "name": "小米线路"
-    },
-            {
-      "url": "http://www.饭太硬.com/tv",
-      "name": "饭太硬线路"
-    },
-                    {
-      "url": "http://ttkx.live:55/天天开心",
-      "name": "天天开心"
-    }, 
-            {
-      "url": "https://gitee.com/tvkj/fl/raw/main/svip.json",
-      "name": "飞龙影视"
-    },
-    {
-      "url": "http://我不是.摸鱼儿.top",
-      "name": "摸鱼线路"
-    },
-             {
-      "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
-      "name": "D佬魔改"
-    },
-                    {
-      "url": "https://cn.kstore.space/download/2863/01.txt",
-      "name": "潇洒空间"
-    },
-        {
-            "url": "https://100km.top/0",
-            "name": "Ray线路"
-        },	
-          {
-      "url": "http://120.24.204.74:1888/?explorer/share/file&hash=1277MMs1UITPwRkFSiUwxvFZU1UGQqfXHMnKQHeMcexYxjtYy9tydrVYUbsNkOItAw&name=/春盈天下新yy.css",
-      "name": "春盈天下"
-    },
-        {
-      "url": "https://szyyds.cn/tv/x.json",
-      "name": "小马线路"
-    },
-    {
-      "url": "http://肥猫.com",
-      "name": "肥猫线路"
-    },
-        {
-      "url": "http://dp.sxtv.top:88/img",
-      "name": "神仙线路"
-    },
-      {
-      "url": "http://home.jundie.top:81/top98.json",
-      "name": "俊佬线路"
-    },
-       {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "我的"
-    }
-  ]
+﻿{"urls":
+[
+{"url":"https://gitee.com/kensorl/zy/raw/master/svip3.json","name":"SVIP3"},
+
+{"url":"http://cdn.qiaoji8.com/tvbox.json","name": "巧技线路"},
+
+{"url":"https://cnb.cool/baoheapi/jar/-/git/raw/main/169%E7%84%A6%E7%82%B9%E6%97%B6%E5%88%BB%E5%BF%AB%E8%A7%86.txt
+","name": "宝盒线路"},
+
+{"url":"https://gitee.com/kensorl/zy/raw/master/svip3-1.json","name":"SVIP3-1"},
+
+{"url":"https://gitee.com/king12985/tv/raw/master/kite.json","name":"KITE"},
+
+{"url":"http://kensorl.free.nf/tv/yszb.txt","name":"央视直播线路"},
+
+{"url":"https://8492.kstore.space/超玩家影视仓库/影视线路/fty/ncwj","name": "超玩家"},
+
+{"url":"https://gitee.com/vq_1/ysc/raw/master/gongyi.json","name":"gongyi"},
+
+{"url":"https://gitee.com/liuxiangsheng123/yingshicang1/raw/master/xianlu1/m.json","name":"m"},
+
+{"url":"https://raw.liucn.cc/box/dm.txt","name":"dm"},
+
+{"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"网盘线路"},
+
+{"url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json","name":"黄金线路"},
+
+{"url": "https://gitee.com/yiwu369/6758/raw/master/1.json","name":"青龙线路"},
+
+{"url":"https://www.饭太硬.com/tv","name":"饭太硬线路"},
+
+{"url":"https://xn--u11u-wn6lw489o.v.nxog.top/apia?id=1","name":"欧歌线路"},
+
+{"url":"https://gitee.com/yantouer/box/raw/master/bao.json","name":"BAO线路"},
+
+{"url":"http://kensorl.free.nf/tv/php.txt","name":"php-nf线路"},
+
+{"url":"http://www.bjrocken.com/kensorl/tv/php.txt","name":"php-Rocken线路"},
+
+{"url":"http://etaishun.com/m3u8/hzm.json","name":"盒子迷线路"},
+
+{"url":"https://gitee.com/kensorl/tw/raw/master/api.json","name":"天微线路"},
+
+{"url":"https://gitee.com/zxj77/mao/raw/master/xj.json","name":"Mao线路"},
+
+{"url":"http://www.bjrocken.com/kensorl/tv/svip.txt","name":"Rocken线路"},
+
+{"url":"http://kensorl.free.nf/tv/svip.txt","name":"Freenf线路"},
+
+{"url":"https://gitee.com/cyw0910/ysc_interface/raw/master/index.json","name":"Cyw0910线路"},
+
+{"url":"https://gitee.com/cnchs/iptv/raw/main/svip.json","name":"华西线路"},
+
+{"url":"https://gitee.com/shengfuwang/yscjk/raw/master/wsf.json","name":"嘉峪关老王线路"},
+
+{"url":"https://100km.top/0","name":"Ray线路"},	
+
+{"url":"http://肥猫.com","name":"肥猫线路"},
+
+{"url":"http://home.jundie.top:81/top98.json","name":"俊佬线路"},
+
+{"url":"https://d.kstore.dev/download/5124/ying/cr/fl1.json","name":"测试"}
+
+]
 }
