@@ -1,0 +1,20 @@
+﻿{
+ "lives":[
+        {"name":"北京TV","type": 0,"url": "http://kensorl.free.nf/tv/a1.txt"},
+        {"name":"燕郊TV","type": 0,"url": "http://kensorl.free.nf/tv/yj.txt"},
+        {"name":"益阳TV","type": 0,"url": "http://kensorl.free.nf/tv/yy.txt"}],
+
+ "sites": [
+    {"key":"柠檬","name":"柠檬","type":3,"api":"csp_Nmvod","playerType":2,"jar":"https://cdn.jsdelivr.net/gh/kensorl/tv@refs/heads/main/ningmeng.jar","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
+   
+    {"key":"哔哩合集","name":"哔哩","type":3,"api":"csp_Bili","jar":"https://cdn.jsdelivr.net/gh/kensorl/tv@refs/heads/main/qxyc.jar"},
+   
+    {"key":"360zy","name":"360","type":1,"api":"https://360zy.com/api.php/provide/vod?","jar":"https://cdn.jsdelivr.net/gh/kensorl/tv@refs/heads/main/qxyc.jar"},
+
+    {"key":"瓜子","name":"瓜子","type":3,"api":"csp_AweSomeGuard","jar":"https://cdn.jsdelivr.net/gh/kensorl/tv@refs/heads/main/RinpMUTd.png","ext":{"sp":"Guazi"}},
+
+    {"key":"文才","name":"文才","type":3,"api":"csp_AweSomeGuard","jar":"https://cdn.jsdelivr.net/gh/kensorl/tv@refs/heads/main/RinpMUTd.png","ext":{"sp":"Jpys"}},
+  
+    {"key":"爱看Bot","name":"爱看","type":3,"api":"csp_AweSomeGuard","jar":"https://cdn.jsdelivr.net/gh/kensorl/tv@refs/heads/main/RinpMUTd.png","ext":{"sp":"Ikanbot"}}
+
+   ]}
