@@ -1,17 +1,29 @@
 ﻿{"urls":
 [
-{"url":"https://gitee.com/kensorl/zy/raw/master/svip3.json","name":"SVIP3"},
+{"url":"http://kensorl.free.nf/tv/svip3.txt","name":"SVIP3"},
+
+{"url":"https://18156.kstore.space/kensorl/kma/raw/master/svip33.txt","name":"备用SVIP3"},
+
+{"url":"http://kensorl.free.nf/tv/kma.txt","name":"简单线路"},
 
 {"url":"http://cdn.qiaoji8.com/tvbox.json","name": "巧技线路"},
+
+{"url":"https://www.饭太硬.com/tv","name":"饭太硬线路"},
+
+{"url":"http://kensorl.free.nf/tv/yszb.txt","name":"看电视北京"},
+
+{"url":"http://kensorl.free.nf/tv/yszbyj.txt","name":"看电视燕郊"},
+
+{"url":"http://kensorl.free.nf/tv/yszbyy.txt","name":"看电视益阳"},
+
+{"url":"http://kensorl.free.nf/tv/yszbiptv.txt","name":"看电视IPTV"},
 
 {"url":"https://cnb.cool/baoheapi/jar/-/git/raw/main/169%E7%84%A6%E7%82%B9%E6%97%B6%E5%88%BB%E5%BF%AB%E8%A7%86.txt
 ","name": "宝盒线路"},
 
-{"url":"https://gitee.com/kensorl/zy/raw/master/svip3-1.json","name":"SVIP3-1"},
 
 {"url":"https://gitee.com/king12985/tv/raw/master/kite.json","name":"KITE"},
 
-{"url":"http://kensorl.free.nf/tv/yszb.txt","name":"央视直播线路"},
 
 {"url":"https://8492.kstore.space/超玩家影视仓库/影视线路/fty/ncwj","name": "超玩家"},
 
@@ -27,7 +39,7 @@
 
 {"url": "https://gitee.com/yiwu369/6758/raw/master/1.json","name":"青龙线路"},
 
-{"url":"https://www.饭太硬.com/tv","name":"饭太硬线路"},
+
 
 {"url":"https://xn--u11u-wn6lw489o.v.nxog.top/apia?id=1","name":"欧歌线路"},
 
